@@ -1,0 +1,15 @@
+{
+  "name": "couchdb-jwt-public-keys-generator",
+  "version": "0.0.1",
+  "description": "Script for generate Firebase public key for CouchDb",
+  "main": "generate-public-keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jan Ptacek",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "got": "^11.8.2"
+  }
+}
